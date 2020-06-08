@@ -328,7 +328,6 @@ public class MainActivity extends AppCompatActivity implements
     @Override
     protected void onResume() {
         super.onResume();
-        getChatrooms();
         if(checkMapServices()) {
             if(mLocationPermissionGranted) {
                 getChatrooms();
