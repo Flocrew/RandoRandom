@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "202155600949",
+    "firebase_url": "https://exalted-crane-279316.firebaseio.com/",
+    "project_id": "exalted-crane-279316",
+    "storage_bucket": "exalted-crane-279316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202155600949:android:c12aedeb88ba66842b157c",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202155600949-mvieufreg6jm5aa2nkh0c0o8d1h321f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9lj_zJ8ZKU-w94NyOBS3kcpwC61flF_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202155600949-mvieufreg6jm5aa2nkh0c0o8d1h321f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
